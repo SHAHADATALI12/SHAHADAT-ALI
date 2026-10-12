@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Mr Shahadat</string>
+    <string name="tagline">Stark Industries Neural Interface</string>
+    <string name="status_online">SYSTEM ONLINE</string>
+    <string name="status_listening">LISTENING...</string>
+    <string name="status_processing">PROCESSING QUERY...</string>
+    <string name="status_speaking">SPEAKING...</string>
+    <string name="status_standby">STANDBY</string>
+</resources>
